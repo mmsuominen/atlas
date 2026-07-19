@@ -259,7 +259,7 @@ If Atlas’s data practices change (for example enabling iCloud sync, adding a n
 
 ## 12. Contact
 
-For questions about this Privacy Policy or Atlas’s privacy practices, contact the Developer using the support information published on the App Store product page or markus.suominen6@gmail.com.
+For questions about this Privacy Policy or Atlas’s privacy practices, contact the Developer using the support information published on the App Store product page or atlas.support.app@gmail.com.
 
 ---
 

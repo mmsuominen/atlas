@@ -6,17 +6,13 @@ Atlas is your personal endurance coach — built for athletes who train for 5Ks,
 
 > What’s the smartest thing I can do today to get fitter — without getting hurt?
 
-No endless plans to tinker with. No guilt for missing a “hero” workout. Just the session that moves you forward.
-
 ---
 
 ## Why Atlas
 
-Most apps track what you already did. Atlas decides what you should do next.
+Most apps track what you already did, Atlas decides what you should do next.
 
 It learns from your Apple Health data — sleep, heart rate, workouts, recovery — and builds a living picture of you as an athlete. Then it weighs your goals, fatigue, and injury risk, and picks the single highest-value session for today.
-
-You still own the decisions. Atlas just makes them clearer.
 
 ---
 

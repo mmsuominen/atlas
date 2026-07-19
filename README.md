@@ -1,3 +1,75 @@
+# Atlas
+
+**Wake up. Know exactly what to do today.**
+
+Atlas is your personal endurance coach — built for athletes who train for 5Ks, marathons, triathlons, and everything in between. Every morning it gives you one clear answer:
+
+> What’s the smartest thing I can do today to get fitter — without getting hurt?
+
+No endless plans to tinker with. No guilt for missing a “hero” workout. Just the session that moves you forward.
+
+---
+
+## Why Atlas
+
+Most apps track what you already did. Atlas decides what you should do next.
+
+It learns from your Apple Health data — sleep, heart rate, workouts, recovery — and builds a living picture of you as an athlete. Then it weighs your goals, fatigue, and injury risk, and picks the single highest-value session for today.
+
+You still own the decisions. Atlas just makes them clearer.
+
+---
+
+## What you get
+
+**One answer every morning**  
+Run, ride, swim, strength, or rest — with a short explanation of *why*.
+
+**A plan that adapts**  
+Your week shifts with how you’re actually recovering, not a PDF that ignores life.
+
+**Race-ready goals**  
+Training aimed at your next event — from a local 5K to a full Ironman — plus optional seasonal targets like fitness milestones.
+
+**Workouts you can actually follow**  
+Structured sessions with guidance on your phone, Lock Screen Live Activity, and an Apple Watch companion that records as you go. Open timers when you just want to move.
+
+**Strength that fits endurance**  
+Log sets, rest between exercises, and keep gym work in the same world as your run/bike/swim plan.
+
+**Weather that respects the plan**  
+Optional forecast advice so you can choose indoor options when conditions are rough — without throwing out the week’s purpose.
+
+**Private by design**  
+No accounts. No ads. No selling your data. Your Health information stays on your devices. [Privacy Policy](https://mmsuominen.github.io/atlas/)
+
+---
+
+## Built for Apple
+
+- **iPhone** — your daily coach, plan, and history  
+- **Apple Watch** — today’s session and workout recording  
+- **Widgets & Live Activities** — glanceable plan and in-workout progress  
+- **Apple Health & Fitness** — Atlas reads the story of your training and saves the workouts you start in the app  
+
+---
+
+## Who it’s for
+
+Athletes who care about showing up consistently more than crushing every session. People training toward a race — or building durable fitness without a race on the calendar. Anyone who wants coaching that feels calm, honest, and grounded in how their body is actually doing.
+
+Atlas is a **fitness coaching** app. It is not a medical device and does not diagnose or treat injury or illness. When something feels wrong, talk to a clinician.
+
+---
+
+## Get started
+
+1. Connect Apple Health  
+2. Tell Atlas your goal and when you can train  
+3. Open the Today view tomorrow morning — and go  
+
+Support: Please use the Discussions feature on the GitHub page (https://github.com/mmsuominen/atlas) as a primary source for support.[mmsuominen.github.io/atlas](https://mmsuominen.github.io/atlas/)
+
 # Privacy Policy for Atlas
 
 **Last updated:** 19 July 2026  
